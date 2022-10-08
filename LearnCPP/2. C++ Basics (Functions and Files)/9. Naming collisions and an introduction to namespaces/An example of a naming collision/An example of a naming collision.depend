@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1664875233 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\9. naming collisions and an introduction to namespaces\an example of a naming collision\a.cpp
+	<iostream>
+

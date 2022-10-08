@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664870200 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\8. program with multiple code files\8. try to compile different file\add.cpp
+
+1664870302 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\8. program with multiple code files\8. try to compile different file\main.cpp
+	<iostream>
+

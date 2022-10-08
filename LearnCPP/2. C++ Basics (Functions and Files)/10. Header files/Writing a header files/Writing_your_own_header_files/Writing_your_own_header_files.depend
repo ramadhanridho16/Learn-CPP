@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665015295 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\10. header files\writing a header files\writing_your_own_header_files\add.cpp
+	"add.h"
+
+1665014963 g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\10. header files\writing a header files\writing_your_own_header_files\add.h
+
+1665015292 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\10. header files\writing a header files\writing_your_own_header_files\main.cpp
+	"add.h"
+	<iostream>
+
