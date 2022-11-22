@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1668645853 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\12. header guards\header guards\project2\square.cpp
+	"square.h"
+
+1668645771 g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\12. header guards\header guards\project2\square.h
+
+1668645874 source:g:\alpro\learncpp\learncpp\2. c++ basics (functions and files)\12. header guards\header guards\project2\main.cpp
+	"square.h"
+	<iostream>
+

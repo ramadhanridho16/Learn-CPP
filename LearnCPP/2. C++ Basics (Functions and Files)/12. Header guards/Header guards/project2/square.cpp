@@ -1,11 +1,16 @@
 #include "square.h"
 
-int getSquareSides()    // actual definition for getSquareSides
+int sisiPersegi()    // actual definition for getSquareSides
 {
     return 4;
 }
 
-int getSquarePerimeter(int sideLength)
+int kelilingPersegi(int sisi)
 {
-    return sideLength*getSquareSides();
+    return sisi*sisiPersegi();
+}
+
+int luas()
+{
+    return sisiPersegi()*sisiPersegi();
 }

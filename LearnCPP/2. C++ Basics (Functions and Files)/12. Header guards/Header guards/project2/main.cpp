@@ -3,8 +3,9 @@
 
 int main()
 {
-    std::cout << "a square has " << getSquareSides() << " sides\n";
-    std::cout << "a square of length 5 has perimeter length " << getSquarePerimeter(5) << "\n";
+    std::cout << "Persegi memliki jumlah sisi sebanyak  : " << sisiPersegi() << " sisi\n\n";
+    std::cout << "Keliling persegi adalah               : " << kelilingPersegi(5) << "\n\n";
+    std::cout << "Luas dari persegi ini adalah          : " << luas();
 
     return 0;
 }
